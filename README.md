@@ -100,12 +100,12 @@ After performing data cleaning, transformation, and analysis using Python and SQ
 
 ### 🧭 Dashboard Preview:
 
-![Power BI Walmart Dashboard]()
+![Power BI Walmart Dashboard](https://github.com/kushal-0412/walmart-data-analytics-py-mysql-powerbi/blob/main/powerbi/Dashboard_Image.png)
 
 
 ### 🗂️ Access the Dashboard:
 
-- 📁 Power BI file: [`Walmart_Sales_Dashboard.pbix`]()
+- 📁 Power BI file: [`Walmart_Sales_Dashboard.pbix`](https://github.com/kushal-0412/walmart-data-analytics-py-mysql-powerbi/blob/main/powerbi/Dashboard_Walmart.pbix)
 
 To view:
 

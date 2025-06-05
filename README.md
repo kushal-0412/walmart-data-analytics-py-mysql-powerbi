@@ -57,20 +57,18 @@ This project is an end-to-end data analysis solution designed to extract critica
 ## Requirements
 
 - **Python 3.8+**
-- **SQL Databases**: MySQL, PostgreSQL
+- **SQL Databases**: MySQL
 - **Python Libraries**:
-  - `pandas`, `numpy`, `sqlalchemy`, `mysql-connector-python`, `psycopg2`
-
+  - `pandas`, `numpy`, `sqlalchemy`, `mysql-connector-python`
+- **PowerBI Desktop**
 
 ## Project Structure
 
 ```plaintext
 |-- data/                     # Raw data and transformed data
-|-- sql_queries/              # SQL scripts for analysis and queries
+|-- mysql_queries/            # SQL scripts for analysis and queries
 |-- notebooks/                # Jupyter notebooks for Python analysis
 |-- README.md                 # Project documentation
-|-- requirements.txt          # List of required Python libraries
-|-- main.py                   # Main script for loading, cleaning, and processing data
 ```
 ---
 
@@ -102,12 +100,12 @@ After performing data cleaning, transformation, and analysis using Python and SQ
 
 ### 🧭 Dashboard Preview:
 
-![Power BI Walmart Dashboard](./assets/powerbi-dashboard-preview.png)
+![Power BI Walmart Dashboard]()
 
 
 ### 🗂️ Access the Dashboard:
 
-- 📁 Power BI file: [`Walmart_Sales_Dashboard.pbix`](./powerbi/Walmart_Sales_Dashboard.pbix)
+- 📁 Power BI file: [`Walmart_Sales_Dashboard.pbix`]()
 
 To view:
 

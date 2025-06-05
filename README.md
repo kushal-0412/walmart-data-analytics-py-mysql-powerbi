@@ -14,7 +14,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 
 ### 3. Download Walmart Sales Data
    - **Data Source**: Use the Kaggle Website to download the Walmart sales datasets.
-   - **Dataset Link**: 
+   - **Dataset Link**: https://github.com/kushal-0412/walmart-data-analytics-py-mysql-powerbi/blob/main/data/Walmart.csv
 
 ### 4. Install Required Libraries and Load Data
    - **Libraries**: Install necessary Python libraries using:

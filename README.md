@@ -68,6 +68,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 |-- data/                     # Raw data and transformed data
 |-- mysql_queries/            # SQL scripts for analysis and queries
 |-- notebooks/                # Jupyter notebooks for Python analysis
+|-- powerbi_dashboard/        # Power BI dashboard (.pbix files, visuals, screenshots)  
 |-- README.md                 # Project documentation
 ```
 ---

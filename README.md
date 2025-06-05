@@ -1,4 +1,4 @@
-# Walmart Data Analysis: End-to-End Python + MySQL + PowerBI
+# Walmart Data Analysis: End-to-End (Python + MySQL + PowerBI)
 
 ## Project Overview
 

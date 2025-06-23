@@ -101,7 +101,7 @@ After performing data cleaning, transformation, and analysis using Python and SQ
 
 ### 🧭 Dashboard Preview:
 
-![Power BI Walmart Dashboard](https://github.com/kushal-0412/walmart-data-analytics-py-mysql-powerbi/blob/main/powerbi/Dashboard_Image.png)
+![Power BI Walmart Dashboard](https://github.com/kushal-0412/walmart-data-analytics-py-mysql-powerbi/blob/main/powerbi/Dash_Image.png)
 
 
 ### 🗂️ Access the Dashboard:
